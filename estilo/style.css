@@ -14,7 +14,7 @@ header {
     background-color: #080F0F;
     color: white;
     display: block;
-    padding-left: 5px;
+    padding-left: 15px;
 }
 
 header > h1 {
@@ -34,7 +34,7 @@ aside {
     background-color: #080F0F;
     color: white;
     padding-top: 10px;
-    padding-left: 5px;
+    padding-left: 15px;
     padding-bottom: 10px;
     margin-bottom: 30px;
     box-shadow: 2px 3px 6px 0px rgba(0, 0, 0, 0.521);
