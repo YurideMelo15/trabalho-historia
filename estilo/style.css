@@ -48,8 +48,8 @@ aside > p {
 }
 
 main {
-    min-width: 400px;
     max-width: 600px;
+    min-width: 200px;
     margin: auto;
     margin-bottom: 30px;
     background-color: #EEE0CB;
